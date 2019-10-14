@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MainApplicationClass<SpringRest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "me.mikkalmc.MainApplicationClass",
+            "projectName": "SpringRest",
+            "args": ""
+        }
+    ]
+}
