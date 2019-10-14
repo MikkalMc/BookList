@@ -1,4 +1,4 @@
-package me.mikkalmc;
+package me.mikkalmc.Books;
 
 import javax.persistence.*;
 

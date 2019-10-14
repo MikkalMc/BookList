@@ -1,4 +1,4 @@
-package me.mikkalmc;
+package me.mikkalmc.Books;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
